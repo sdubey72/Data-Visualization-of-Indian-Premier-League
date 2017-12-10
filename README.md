@@ -95,3 +95,6 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 ## Conclusion
 Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. 
 Hate or Love, one cant ignore IPL !
+
+## Refrences
+https://en.wikipedia.org/wiki/Indian_Premier_League
