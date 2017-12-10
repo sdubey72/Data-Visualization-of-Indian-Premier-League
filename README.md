@@ -29,6 +29,12 @@ Its an Indian professional Twenty20 cricket league contested during April and Ma
 
 The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues.[5] In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. The brand value of IPL in 2017 was US \$ 5.3 billion, according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US\$182 million) to the GDP of the Indian economy
 
+## Graph types
+- plot_wireframe (3D)
+- pointplot
+3 bar
+4 jointplot
+
 
 ## Cricket Basics
 
