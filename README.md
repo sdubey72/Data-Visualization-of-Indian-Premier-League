@@ -32,8 +32,8 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 ## Graph types
 - plot_wireframe (3D)
 - pointplot
-3 bar
-4 jointplot
+- bar
+- jointplot
 
 
 ## Cricket Basics
