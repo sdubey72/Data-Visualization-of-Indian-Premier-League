@@ -35,6 +35,8 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 - bar
 - jointplot
 
+## Graph Images
+
 
 ## Cricket Basics
 
