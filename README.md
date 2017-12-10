@@ -6,7 +6,7 @@ Data Visualization using Indian Premier League (IPL) dataset
 # Synopsis
 #### The project focuses on explaining the summary of the data available in the IPL dataset in visual form. I have explored bar graphs and 3D plots using different plotting methods and packages.
 #### I have also tried to explore different methods to extract data from the dataset using **numpy and Panda** 
-#### Following package are  used in the process.
+#### Following libraries are used in Python 3.5 in the process.
 ```
 pandas
 numpy
@@ -27,7 +27,7 @@ mpl_toolkits.mplot3d
 
 Its an Indian professional Twenty20 cricket league contested during April and May of every year by teams representing Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007
 
-The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues.[5] In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. The brand value of IPL in 2017 was US \$ 5.3 billion, according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US\$182 million) to the GDP of the Indian economy
+The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. The brand value of IPL in 2017 was US \$ 5.3 billion, according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US\$182 million) to the GDP of the Indian economy
 
 ## Graph types
 - plot_wireframe (3D)
@@ -36,8 +36,14 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 - jointplot
 
 ## Graph Images
-
-
+![GitHub Logo](/1.PNG) 
+![GitHub Logo](/2.PNG)
+![GitHub Logo](/3.PNG)
+![GitHub Logo](/4.PNG)
+![GitHub Logo](/5.PNG)
+![GitHub Logo](/6.PNG)
+![GitHub Logo](/7.PNG)
+![GitHub Logo](/8.PNG)
 ## Cricket Basics
 
 * **Bat** : the wooden implement with which the batsman attempts to strike the ball
@@ -86,7 +92,6 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
     - The last two are called 'bowling' extras (the bowler being considered to be at fault for their being conceded) which are included in the runs conceded by the bowler.
     
 
-## Match Format
-
-Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. In terms of visual format, the batting team members do not arrive from and depart to traditional dressing rooms, but come and go from a bench (typically a row of chairs) visible in the playing arena, analogous to association football's technical area or a baseball dugout.
-
+## Conclusion
+Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. 
+Hate or Love, one cant ignore IPL !
