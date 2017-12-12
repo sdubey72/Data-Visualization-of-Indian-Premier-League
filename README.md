@@ -1,9 +1,25 @@
 
 # DataVisualization-Project3
-Data Visualization using Indian Premier League (IPL) dataset
 
+## About the Author
 
-# Synopsis
+### Sharddha Dubey
+
+Graduate Student | Data Science Program
+
+Mercyhurst University
+
+This project is submitted to 
+
+### Dr.Bora Pajo, PhD
+
+Assistant Professor | Applied Sociology and Social Work
+
+Mercyhurst University
+
+As requirement to complete DATA 550 Data Visualization as part of Master of Science in Data Science
+
+## About the Project
 #### The project focuses on explaining the summary of the data available in the IPL dataset in visual form. I have explored bar graphs and 3D plots using different plotting methods and packages.
 #### I have also tried to explore different methods to extract data from the dataset using **numpy and Panda** 
 #### Following libraries are used in Python 3.5 in the process.
@@ -17,10 +33,23 @@ plotly.graph_obj
 mpl_toolkits.mplot3d 
 
 ```
+## About the Dataset
 
-# Motivation
-#### This is final project for Data Visualization course by Dr. Bora Pajo,
-#### Data Science Department, Mercyhurst University
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Cricket Basic](#cricket-basic)
+- [Graph Type](#graph-type)
+- [Project Explaination](#project-explaination)
+- [Graph Images](#graph-images)
+- [Conclusion](#conclusion)
+- [Reference](#reference)
+- [License](#license)
+
+Graph types
+Graph Images
+Conclusion
+References
 
 
 # Intro to Indian Premier League Datset
@@ -29,21 +58,6 @@ Its an Indian professional Twenty20 cricket league contested during April and Ma
 
 The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. The brand value of IPL in 2017 was US \$ 5.3 billion, according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US\$182 million) to the GDP of the Indian economy
 
-## Graph types
-- plot_wireframe (3D)
-- pointplot
-- bar
-- jointplot
-
-## Graph Images
-![GitHub Logo](/1.PNG) 
-![GitHub Logo](/2.PNG)
-![GitHub Logo](/3.PNG)
-![GitHub Logo](/4.PNG)
-![GitHub Logo](/5.PNG)
-![GitHub Logo](/6.PNG)
-![GitHub Logo](/7.PNG)
-![GitHub Logo](/8.PNG)
 ## Cricket Basics
 
 * **Bat** : the wooden implement with which the batsman attempts to strike the ball
@@ -90,11 +104,44 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
         - no-balls. 
     - The first three types are called 'fielding' extras (i.e. the fielders are determined to be at fault for their being conceded) 
     - The last two are called 'bowling' extras (the bowler being considered to be at fault for their being conceded) which are included in the runs conceded by the bowler.
+
+## Graph types
+- plot_wireframe (3D)
+- pointplot
+- bar
+- jointplot
+
+## Project Explaination
+
+In this project we follow below steps
+
+1. We install all the required library in Anaconda
+2. Import the vgsales csv file
+3. Check for any NA/NaN and remove them
+4. Using Matplotlib to plot a line chart
+5. Using Matplotlib to plot a bar plot
+6. Using Matplotlib to plot a pie chart
+7. Using Matplotlib to plot a scatter plot
+8. Visualization using Seaborn
+
+## Graph Images
+![GitHub Logo](/1.PNG) 
+![GitHub Logo](/2.PNG)
+![GitHub Logo](/3.PNG)
+![GitHub Logo](/4.PNG)
+![GitHub Logo](/5.PNG)
+![GitHub Logo](/6.PNG)
+![GitHub Logo](/7.PNG)
+![GitHub Logo](/8.PNG)
+
     
 
 ## Conclusion
 Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. 
 Hate or Love, one cant ignore IPL !
 
-## Refrences
+## References
 https://en.wikipedia.org/wiki/Indian_Premier_League
+
+## License
+Not Applicable
