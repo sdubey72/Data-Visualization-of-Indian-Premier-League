@@ -115,14 +115,9 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 
 In this project we follow below steps
 
-1. We install all the required library in Anaconda
-2. Import the vgsales csv file
-3. Check for any NA/NaN and remove them
-4. Using Matplotlib to plot a line chart
-5. Using Matplotlib to plot a bar plot
-6. Using Matplotlib to plot a pie chart
-7. Using Matplotlib to plot a scatter plot
-8. Visualization using Seaborn
+1. We install all the required library in Anaconda's Jupyter notebook
+2. Import the csv file using pandas
+3. Plot graphs.
 
 ## Graph Images
 ![GitHub Logo](/1.PNG) 
