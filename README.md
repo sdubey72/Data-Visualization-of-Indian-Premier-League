@@ -1,6 +1,21 @@
 
 # Data Visualization of Indian Premier League
 
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [About Dataset](#Intro-to-Indian-Premier-League-Dataset)
+- [Cricket Basics](#Cricket-Basics)
+- [Graph Type](#graph-types)
+- [Project Explaination](#project-explaination)
+- [Graph Images](#graph-images)
+- [Conclusion](#conclusion)
+- [Reference](#reference)
+- [License](#license)
+
+
+# Introduction
+
 ## About the Author
 
 ### Sharddha Dubey
@@ -33,26 +48,8 @@ plotly.graph_obj
 mpl_toolkits.mplot3d 
 
 ```
-## About the Dataset
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Cricket Basic](#cricket-basic)
-- [Graph Type](#graph-type)
-- [Project Explaination](#project-explaination)
-- [Graph Images](#graph-images)
-- [Conclusion](#conclusion)
-- [Reference](#reference)
-- [License](#license)
-
-Graph types
-Graph Images
-Conclusion
-References
-
-
-# Intro to Indian Premier League Datset
+# Intro to Indian Premier League Dataset
 
 Its an Indian professional Twenty20 cricket league contested during April and May of every year by teams representing Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007
 
@@ -110,6 +107,9 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
 - pointplot
 - bar
 - jointplot
+- Interactiveplot
+- factorplot
+- countplot
 
 ## Project Explaination
 
@@ -120,14 +120,14 @@ In this project we follow below steps
 3. Plot graphs.
 
 ## Graph Images
-![GitHub Logo](/1.PNG) 
-![GitHub Logo](/2.PNG)
-![GitHub Logo](/3.PNG)
-![GitHub Logo](/4.PNG)
-![GitHub Logo](/5.PNG)
-![GitHub Logo](/6.PNG)
-![GitHub Logo](/7.PNG)
-![GitHub Logo](/8.PNG)
+![](/1.PNG) 
+![](/2.PNG)
+![](/3.PNG)
+![](/4.PNG)
+![](/5.PNG)
+![](/6.PNG)
+![](/7.PNG)
+![](/8.PNG)
 
     
 
@@ -135,7 +135,7 @@ In this project we follow below steps
 Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. 
 Hate or Love, one cant ignore IPL !
 
-## References
+## Reference
 https://en.wikipedia.org/wiki/Indian_Premier_League
 
 ## License
