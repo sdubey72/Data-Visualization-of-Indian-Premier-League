@@ -1,5 +1,5 @@
 
-# DataVisualization-Project3
+# Data Visualization of Indian Premier League
 
 ## About the Author
 
