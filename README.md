@@ -1,6 +1,7 @@
 
 # Data Visualization of Indian Premier League
 
+![](/ipl-2013-teams-logos.jpeg) 
 ## Table of Contents
 
 - [Introduction](#Introduction)
