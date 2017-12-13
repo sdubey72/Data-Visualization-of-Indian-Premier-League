@@ -1,12 +1,43 @@
 
-# DataVisualization-Project3
-Data Visualization using Indian Premier League (IPL) dataset
+# Data Visualization of Indian Premier League
+
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [About Dataset](#Intro-to-Indian-Premier-League-Dataset)
+- [Cricket Basics](#Cricket-Basics)
+- [Graph Type](#graph-types)
+- [Project Explaination](#project-explaination)
+- [Graph Images](#graph-images)
+- [Conclusion](#conclusion)
+- [Reference](#reference)
+- [License](#license)
 
 
-# Synopsis
+# Introduction
+
+## About the Author
+
+### Sharddha Dubey
+
+Graduate Student | Data Science Program
+
+Mercyhurst University
+
+This project is submitted to 
+
+### Dr.Bora Pajo, PhD
+
+Assistant Professor | Applied Sociology and Social Work
+
+Mercyhurst University
+
+As requirement to complete DATA 550 Data Visualization as part of Master of Science in Data Science
+
+## About the Project
 #### The project focuses on explaining the summary of the data available in the IPL dataset in visual form. I have explored bar graphs and 3D plots using different plotting methods and packages.
 #### I have also tried to explore different methods to extract data from the dataset using **numpy and Panda** 
-#### Following package are  used in the process.
+#### Following libraries are used in Python 3.5 in the process.
 ```
 pandas
 numpy
@@ -18,25 +49,11 @@ mpl_toolkits.mplot3d
 
 ```
 
-# Motivation
-#### This is final project for Data Visualization course by Dr. Bora Pajo,
-#### Data Science Department, Mercyhurst University
-
-
-# Intro to Indian Premier League Datset
+# Intro to Indian Premier League Dataset
 
 Its an Indian professional Twenty20 cricket league contested during April and May of every year by teams representing Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007
 
-The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues.[5] In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. The brand value of IPL in 2017 was US \$ 5.3 billion, according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US\$182 million) to the GDP of the Indian economy
-
-## Graph types
-- plot_wireframe (3D)
-- pointplot
-- bar
-- jointplot
-
-## Graph Images
-
+The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. The brand value of IPL in 2017 was US \$ 5.3 billion, according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US\$182 million) to the GDP of the Indian economy
 
 ## Cricket Basics
 
@@ -84,9 +101,42 @@ The IPL is the most-attended cricket league in the world and ranks sixth among a
         - no-balls. 
     - The first three types are called 'fielding' extras (i.e. the fielders are determined to be at fault for their being conceded) 
     - The last two are called 'bowling' extras (the bowler being considered to be at fault for their being conceded) which are included in the runs conceded by the bowler.
+
+## Graph types
+- plot_wireframe (3D)
+- pointplot
+- bar
+- jointplot
+- Interactiveplot
+- factorplot
+- countplot
+
+## Project Explaination
+
+In this project we follow below steps
+
+1. We install all the required library in Anaconda's Jupyter notebook
+2. Import the csv file using pandas
+3. Plot graphs.
+
+## Graph Images
+![](/1.PNG) 
+![](/2.PNG)
+![](/3.PNG)
+![](/4.PNG)
+![](/5.PNG)
+![](/6.PNG)
+![](/7.PNG)
+![](/8.PNG)
+
     
 
-## Match Format
+## Conclusion
+Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. 
+Hate or Love, one cant ignore IPL !
 
-Twenty20 match format is a form of limited overs cricket in that it involves two teams, each with a single innings, the key feature being that each team bats for a maximum of 20 overs. In terms of visual format, the batting team members do not arrive from and depart to traditional dressing rooms, but come and go from a bench (typically a row of chairs) visible in the playing arena, analogous to association football's technical area or a baseball dugout.
+## Reference
+https://en.wikipedia.org/wiki/Indian_Premier_League
 
+## License
+Not Applicable
